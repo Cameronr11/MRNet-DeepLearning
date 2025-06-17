@@ -17,6 +17,7 @@ This project implements deep learning models for automatic diagnosis of knee abn
 - [Utilities](#utilities)
 - [Acknowledgments](#acknowledgments)
 
+
 ## Key Features
 
 - **Multi-view MRI Analysis**: Process knee MRI data from axial, coronal, and sagittal views
@@ -165,3 +166,6 @@ The training pipeline includes:
 This project is inspired by the Stanford ML Group's MRNet work:
 https://stanfordmlgroup.github.io/projects/mrnet/
 
+
+
+# Babita's version
