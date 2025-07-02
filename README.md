@@ -167,5 +167,3 @@ This project is inspired by the Stanford ML Group's MRNet work:
 https://stanfordmlgroup.github.io/projects/mrnet/
 
 
-
-# Babita's version
